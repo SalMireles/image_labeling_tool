@@ -1,1 +1,1 @@
-# image_labeling_tool
+# Site to label images
